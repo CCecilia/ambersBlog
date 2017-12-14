@@ -1,0 +1,8 @@
+.intro, .navbar, .featured-posts, .latest-posts,
+.newsletter {
+	background-color: pink;
+}
+
+.amber-header, .hero-link{
+	color: pink;
+}
